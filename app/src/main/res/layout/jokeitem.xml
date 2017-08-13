@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/joke"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dip"
+        android:textColor="#000000"
+        android:padding="6dp"
+        android:background="@drawable/textview_border"
+        android:layout_marginBottom="10dp"
+        android:text="我来一个灵异的，在八九十年代的农村，那是就要到了收割稻子的时候，有一家老奶奶前段时间突然生病卧床不起，，，就在割稻子的时候身体又好了，我们几个小孩到他家玩，她告诉我们说，他告诉抓他的小鬼，先别急抓他，说他的儿子现在正在收割稻子，忙，等稻子收割完了再来抓他，，，…后来等到稻子收割完了，，，她就去世了"/>
+</LinearLayout>
